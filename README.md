@@ -1,2 +1,5 @@
-# The-RGB-Color-Game
-This is an RGB Color guessing game. You are provided with a random color and a bunch of colors to select the right color. I learnt this from Colt Steele, instructor of The Web Developer Bootcamp at Udemy.com
+The-RGB-Color-Game
+To Play the Game
+1. Download all files
+2.Open the .html file
+3.Click the square with the color closest to given color.
